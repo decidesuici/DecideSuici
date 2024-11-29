@@ -91,9 +91,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3V2aGFrbW92d3F1eXEzeGlnYjJvY3FqbzRqZ3F4YTRvdTFjN3VocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5ZlbBE3mUKBtImxjkd/giphy.webp"  />
-
-###
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/decidesuici/decidesuici/output/snake.svg" alt="Snake animation" />
 
@@ -101,6 +99,12 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/decidesuici/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3V2aGFrbW92d3F1eXEzeGlnYjJvY3FqbzRqZ3F4YTRvdTFjN3VocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5ZlbBE3mUKBtImxjkd/giphy.webp"  />
 </div>
 
 ###
